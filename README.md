@@ -8,7 +8,7 @@ Para a melhor visualização dos dados de Saída e melhor fluidez e facilidade d
 
 1- Dois cliques em "Requirements.bat" para instalar os módulos necessários.
 2- Abrir o CMD
-3- digitar o seguinte comando: cd <caminho para a pasta Drogasil>
+3- digitar o seguinte comando: cd "caminho para a pasta Drogasil"
 4- digitar o seguinte comando: python scrapy.py (O script fará uma raspagem todos os dias às 7h da manhã, caso não seja executado, será retornado à página apenas os dados constantes da Drogasil)
 5- digitar o seguinte comando: python manage.py runserver
 6- Abrir o link do servidor e ser feliz.
