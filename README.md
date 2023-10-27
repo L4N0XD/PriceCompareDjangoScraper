@@ -1,4 +1,4 @@
-### FindPrice - Drogasil/PagueMenos
+### PriceCompare - Drogasil/PagueMenos
 
 Esse projeto tem como finalidade obter os preços dos produtos pesquisados e comparar os valores entre eles nos sites da Drogasil (Utilizando a API) e da PagueMenos, utilizando uma técnica de raspagem de dados utilizando o módulo **Scrapy** do Python.
 
